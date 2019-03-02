@@ -7,4 +7,4 @@ It is capable of doing following things:
 3. Will allow number of digits according to card type.
 4. Also can change placeholder text according to card type.
 
-
+![](Untitled.gif)
